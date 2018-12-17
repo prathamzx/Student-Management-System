@@ -20,4 +20,13 @@ Sql file can be imported from sql/srms.sql
 Software for Local Server - XAMPP
 
 
+A completely functional Student Management System for a University/College.
 
+# Features:
+* Add Students , Courses, Subjects and their combination with Courses, Batch etc.
+* Enter Marks that student carries and display result in a automatically generated result sheet.
+* Manages students who fails and enable them for re-appearing.
+* Maintains independency between different course students.
+* Uses more than 15 tables in Database.
+
+# Successfully tested by a university with their own data.
